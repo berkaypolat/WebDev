@@ -67,3 +67,5 @@ can then create a parameter which is a key value pair joined by a '='.
 ### XHR POST Requests I
 - The major difference between a GET request and POST request is that a POST request requires additional information to be sent through the request. This additional information is sent in the body of the post request.
 ![XmlPost photo](./XML_POST.png)
+- JSON.stringify() will convert a value to a JSON string. By converting the
+value to a string, we can then send the data to a server.
