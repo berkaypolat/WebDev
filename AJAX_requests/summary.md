@@ -1,4 +1,4 @@
-## Requests
+## Requests (PART 1)
 - There are many types of HTTP requests. The four most commonly used types of
 HTTP requests are GET, POST, PUT, and DELETE. In this lesson, we’ll cover GET
 and POST requests. If you want to learn more about the different HTTP requests,
