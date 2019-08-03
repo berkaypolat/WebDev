@@ -17,9 +17,9 @@ const shortenUrl = async () => {
       method: 'POST',
       body: data,
       headers: {
-'Content-type': 'application/json',
-'apikey': apiKey
-}
+          'Content-type': 'application/json',
+          'apikey': apiKey
+      }
     });
     if(response.ok){
 			const jsonResponse = await response.json();
